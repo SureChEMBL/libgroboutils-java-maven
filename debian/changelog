@@ -1,3 +1,9 @@
+libgroboutils-java-maven (5-3-2) unstable; urgency=medium
+
+  * Using dh_usj_maven helper.
+
+ -- Yury Zavarin <yzavarin@ebi.ac.uk>  Wed, 06 Sep 2017 16:41:43 +0100
+
 libgroboutils-java-maven (5-3-1) unstable; urgency=medium
 
   * Initial release.
