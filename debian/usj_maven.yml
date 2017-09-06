@@ -1,0 +1,41 @@
+package: libgroboutils-java-maven
+
+artifacts:
+  - group_id: net.sourceforge.groboutils
+    artifact_id: groboutils-codecoverage-core
+
+  - group_id: net.sourceforge.groboutils
+    artifact_id: groboutils-xml-core
+
+  - group_id: net.sourceforge.groboutils
+    artifact_id: groboutils-thread-core
+
+  - group_id: net.sourceforge.groboutils
+    artifact_id: groboutils-codecoverage-ant
+
+  - group_id: net.sourceforge.groboutils
+    artifact_id: groboutils-io-core
+
+  - group_id: net.sourceforge.groboutils
+    artifact_id: groboutils-pmti-core
+
+  - group_id: net.sourceforge.groboutils
+    artifact_id: groboutils-classes-core
+
+  - group_id: net.sourceforge.groboutils
+    artifact_id: groboutils-testingtp-core
+
+  - group_id: net.sourceforge.groboutils
+    artifact_id: groboutils-datastruct-core
+
+  - group_id: net.sourceforge.groboutils
+    artifact_id: groboutils-codecoverage-runtime
+
+  - group_id: net.sourceforge.groboutils
+    artifact_id: groboutils-testingjunit-core
+
+  - group_id: net.sourceforge.groboutils
+    artifact_id: groboutils-uicapture-core
+
+  - group_id: net.sourceforge.groboutils
+    artifact_id: groboutils-testingautodoc-core
